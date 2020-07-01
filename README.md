@@ -1,1 +1,1 @@
-Leetcode monthly updates
+I am starting from july monthly challenge on leetcode.
